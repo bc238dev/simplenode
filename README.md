@@ -1,2 +1,0 @@
-# simplenode
-Created with CodeSandbox
